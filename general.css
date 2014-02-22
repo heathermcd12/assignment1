@@ -95,7 +95,7 @@ figure {
 }
 
 figcaption {
-    font-family: Georgia, Times,serif;
+    font-family: Georgia, Times, serif;
     font-weight: normal;
     line-height: rem;
     color: green;
@@ -104,7 +104,7 @@ figcaption {
 }
 
 footer {
-    font-size: 1rem;
+    font-size: .2rem;
     color: white;
     background-color: green;
     overflow: hidden;
@@ -112,3 +112,7 @@ footer {
     width: auto;
     padding: .25rem;
 }       
+
+footer a {
+    color: white;
+} 
